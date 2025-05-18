@@ -12,11 +12,17 @@ __tft_side_watergun_v2:__ The software for the tft side with the laser module at
 
 __watergun_side_v3:__ The software for the watergun side
 
-
+__________________________________________
 
 ## Bill of Materials:
 
 ### Laser module with TFT screen
+1. Laser Module. Note: laser module is not exaclty the same as laser pointer. Search amazon or aliexpress for "laser module". I'm using this one: ![dot laser module](https://www.amazon.com.au/650nm-Laser-Module-Adjustable-Industrial/dp/B07PV4BWVH/)
+2. TFT with esp32 connected. I'm using the elecrow red display, but you can use a cheap yellow display or a tft with an esp32. I'm using this one: ![elecrow red display](https://www.elecrow.com/esp32-display-2-8-inch-hmi-display-spi-tft-lcd-touch-screen.html)
+3. Push buttons x 2.
+4. Jumper wires.
+5. 18650 battery and battery holder
+
 ![laser_module_handset](https://github.com/jonathanrandall/laser_target_watergun/blob/main/pictures/handset_photo.JPEG)
 
 ### Water gun side with camera
