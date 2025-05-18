@@ -29,7 +29,7 @@ __________________________________________
 5. 18650 battery and battery holder
 6. Jumper wires, 3d printer,  hot glue, solder, etc...
 
-[laser_module_handset](https://github.com/jonathanrandall/laser_target_watergun/blob/main/pictures/handset_photo.JPEG)
+![laser_module_handset](https://github.com/jonathanrandall/laser_target_watergun/blob/main/pictures/handset_photo.JPEG)
 
 ### Water gun side with camera
 1. Esp32 cam. I'm using the AI thinker but any esp32 cam should be ok.
@@ -42,7 +42,7 @@ __________________________________________
 8. Battery. I'm using a 2S lipo. But anything that works with the buck converters should be ok.
 9. Jumper cables, hot glue, etc... 
 
-[watergun_side](https://github.com/jonathanrandall/laser_target_watergun/blob/main/pictures/watergun_photo.JPEG)
+![watergun_side](https://github.com/jonathanrandall/laser_target_watergun/blob/main/pictures/watergun_photo.JPEG)
 
 
 previous videos on wategun are at:
