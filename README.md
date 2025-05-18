@@ -21,7 +21,7 @@ __________________________________________
 ## Bill of Materials:
 
 ### Laser module with TFT screen
-1. Laser Module. Note: laser module is not exaclty the same as laser pointer. Search amazon or aliexpress for "laser module". I'm using this one: ![dot laser module](https://www.amazon.com.au/650nm-Laser-Module-Adjustable-Industrial/dp/B07PV4BWVH/)
+1. Laser Module. Note: laser module is not exaclty the same as laser pointer. Search amazon or aliexpress for "laser module". I'm using this one: [dot laser module](https://www.amazon.com.au/650nm-Laser-Module-Adjustable-Industrial/dp/B07PV4BWVH/)
 2. TFT with esp32 connected. I'm using the elecrow red display, but you can use a cheap yellow display or a tft with an esp32. I'm using this one: ![elecrow red display](https://www.elecrow.com/esp32-display-2-8-inch-hmi-display-spi-tft-lcd-touch-screen.html)
 3. Push buttons x 2.
 4. Pull up resistors X 2. I'm using 6.8 kohm, but anywhere from 5k to 15k should be ok.
