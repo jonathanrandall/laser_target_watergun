@@ -1,5 +1,9 @@
 # laser_target_watergun
-Laser Targetting watergun with esp32 cam and esp32 controlling the laser module
+Laser Targetting watergun with esp32 cam and esp32 controlling the laser module.
+
+
+[Explanatory video](https://youtu.be/Ic2vv7IDxok)
+[![Demo Video](https://github.com/jonathanrandall/laser_target_watergun/blob/main/pictures/thumbnail.png)](https://youtu.be/Ic2vv7IDxok)
 
 __Note:__ The __User_Setup.h__ file contains the configuration for the elecrow red display with the esp32. If using cheap yellow display need to set TFT_BL to -1. This would normally be set to 21, but pin 21 is held high by a pullup resistor, so the screen will still work.
 
