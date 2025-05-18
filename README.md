@@ -23,13 +23,13 @@ __________________________________________
 
 ### Laser module with TFT screen
 1. Laser Module. Note: laser module is not exaclty the same as laser pointer. Search amazon or aliexpress for "laser module". I'm using this one: [dot laser module](https://www.amazon.com.au/650nm-Laser-Module-Adjustable-Industrial/dp/B07PV4BWVH/)
-2. TFT with esp32 connected. I'm using the elecrow red display, but you can use a cheap yellow display or a tft with an esp32. I'm using this one: ![elecrow red display](https://www.elecrow.com/esp32-display-2-8-inch-hmi-display-spi-tft-lcd-touch-screen.html)
+2. TFT with esp32 connected. I'm using the elecrow red display, but you can use a cheap yellow display or a tft with an esp32. I'm using this one: [elecrow red display](https://www.elecrow.com/esp32-display-2-8-inch-hmi-display-spi-tft-lcd-touch-screen.html)
 3. Push buttons x 2.
 4. Pull up resistors X 2. I'm using 6.8 kohm, but anywhere from 5k to 15k should be ok.
 5. 18650 battery and battery holder
 6. Jumper wires, 3d printer,  hot glue, solder, etc...
 
-![laser_module_handset](https://github.com/jonathanrandall/laser_target_watergun/blob/main/pictures/handset_photo.JPEG)
+[laser_module_handset](https://github.com/jonathanrandall/laser_target_watergun/blob/main/pictures/handset_photo.JPEG)
 
 ### Water gun side with camera
 1. Esp32 cam. I'm using the AI thinker but any esp32 cam should be ok.
@@ -42,11 +42,11 @@ __________________________________________
 8. Battery. I'm using a 2S lipo. But anything that works with the buck converters should be ok.
 9. Jumper cables, hot glue, etc... 
 
-![watergun_side](https://github.com/jonathanrandall/laser_target_watergun/blob/main/pictures/watergun_photo.JPEG)
+[watergun_side](https://github.com/jonathanrandall/laser_target_watergun/blob/main/pictures/watergun_photo.JPEG)
 
 
 previous videos on wategun are at:
 
-![esp32 watergun](https://youtu.be/s5WNyXVWSS8)
+[esp32 watergun](https://youtu.be/s5WNyXVWSS8)
 
-![esp32 watergun with tracking](https://youtu.be/NK1wj7sDLNc)
+[esp32 watergun with tracking](https://youtu.be/NK1wj7sDLNc)
