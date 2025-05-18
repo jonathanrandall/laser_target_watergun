@@ -26,6 +26,7 @@ __________________________________________
 ![laser_module_handset](https://github.com/jonathanrandall/laser_target_watergun/blob/main/pictures/handset_photo.JPEG)
 
 ### Water gun side with camera
+1. Electric wategun.
 ![watergun_side](https://github.com/jonathanrandall/laser_target_watergun/blob/main/pictures/watergun_photo.JPEG)
 
 ### Servo test rig
