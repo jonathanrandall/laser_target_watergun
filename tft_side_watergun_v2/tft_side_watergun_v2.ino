@@ -243,11 +243,14 @@ void setup() {
       // sendMessage("target_get");
     }
 
-    if (millis() - last_touch > 2000 && my_touch_read(&px, &py)){
+    /*
+    //the my_touch_read needs a semaphore: TODO
+    if (millis() - last_touch > 200 && my_touch_read(&px, &py)){
       sendMessage("reset_servos");
       last_touch = millis();
       Serial.println("reset_servos");
     }
+    */
     prev_l_button_pushed = l_button_pushed;
     prev_f_button_pushed = f_button_pushed;
     delay(50);
