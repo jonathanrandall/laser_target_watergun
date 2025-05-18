@@ -40,3 +40,8 @@ __________________________________________
 ![watergun_side](https://github.com/jonathanrandall/laser_target_watergun/blob/main/pictures/watergun_photo.JPEG)
 
 
+previous videos on wategun are at:
+
+![esp32 watergun](https://youtu.be/s5WNyXVWSS8)
+
+![esp32 watergun with tracking](https://youtu.be/NK1wj7sDLNc)
