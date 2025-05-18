@@ -123,7 +123,8 @@
 // driven with a PWM signal or turned OFF/ON then this must be handled by the user
 // sketch. e.g. with digitalWrite(TFT_BL, LOW);
 
- #define TFT_BL   27 //21            // LED back-light control pin
+
+ #define TFT_BL   27 // 21 for cyd, or can use -1 if pin 21 is held high by the pullup resistor or used for i2c clock  // LED back-light control pin
  #define ESP32_DMA //for elecrow
  #define TFT_BACKLIGHT_ON HIGH  // Level to turn ON back-light (HIGH or LOW)
 
