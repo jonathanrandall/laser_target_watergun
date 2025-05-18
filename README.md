@@ -5,8 +5,11 @@ __Note:__ The __User_Setup.h__ file contains the configuration for the elecrow r
 
 ## Directories:
 __3d print files:__ This contains the files to 3d print the handset.
+
 __schematics:__ This contains the schematics for the wiring for both the watergun side and the tft side
+
 __tft_side_watergun_v2:__ The software for the tft side with the laser module attached
+
 __watergun_side_v3:__ The software for the watergun side
 
 
